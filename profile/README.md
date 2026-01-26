@@ -51,6 +51,7 @@
 
 ### 👥 Members
 - **Misei.** ([@misei-nul](https://github.com/misei-nul)) - *Founder / Lead Architect*
+- **FlowingSPDG** ([@FlowingSPDG](https://github.com/FlowingSPDG)) - *Founder*
 
 ---
 
