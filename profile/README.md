@@ -26,16 +26,24 @@
 
 ### 📡 Research & Projects
 
+#### [rust-ndi-viewer](https://github.com/Incomplete-Outputs-Lab/rust-ndi-viewer/)
+- **Status:** `R&D`
+- **Description:** Rust onlyなNDI Monitor(PoC)。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き
+
+#### [bi-kanpe](https://github.com/Incomplete-Outputs-Lab/bi-kanpe/)
+- **Status:** `Under Development`
+- **Description:** プロダクション向け双方向デスクトップカンペアプリ。クロスプラットフォーム対応。Rust/Tauri。
+
 #### [obs-sync](https://github.com/Incomplete-Outputs-Lab/obs-sync)
-- **Status:** `Active / Phase: R&D`
+- **Status:** `Under Development`
 - **Description:** 中〜大規模現場向けOBSマルチインスタンス同期システム。Rust/Tauri。
 
 #### [stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)
-- **Status:** `Active / Phase: Prototyping`
-- **Description:** DuckDBを基盤とした配信統計アナリティクスデスクトップアプリ。
+- **Status:** `Under Development`
+- **Description:** DuckDBを基盤とした配信統計アナリティクスデスクトップアプリ。Rust/Tauri。
 
 #### vMix-Control-Series
-- **Status:** `In Development / Hardware`
+- **Status:** `Under Development`
 - **Description:** Raspberry Pi 5 / Pico (Embassy) による放送用ハードウェア・コントローラー。
 
 ---
