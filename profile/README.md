@@ -1,4 +1,4 @@
-# 未完成成果物研究所(未成研) / Incomplete-Outputs-Lab(I/O-Lab)
+# 未完成成果物研究所(未成研)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Non--Profit%20Community-green?style=for-the-badge" />
@@ -20,23 +20,25 @@
 
 「完成」の一歩手前にある、荒削りながらも本質的な課題解決を目的としています。2026年1月現在、全メンバーが放送・配信・IT業界の第一線で活動するプロフェッショナルであり、本業の傍ら、技術的探求と現場の最適化を目的として参画しています。
 
-> **"Finding Beauty in Incomplete Signals and Queues."**
-
 ---
 
 ### 📡 Research & Projects
 
+#### [vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility/)
+- **Status:** `Active`
+- **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeck向けのURL生成、Blankの生成自動化など。
+
 #### [rust-ndi-viewer](https://github.com/Incomplete-Outputs-Lab/rust-ndi-viewer/)
-- **Status:** `R&D`
-- **Description:** Rust onlyなNDI Monitor(PoC)。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き
+- **Status:** `PoC`
+- **Description:** Pure RustなNDI Monitorアプリ。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き
 
 #### [bi-kanpe](https://github.com/Incomplete-Outputs-Lab/bi-kanpe/)
-- **Status:** `Under Development`
+- **Status:** `Active`
 - **Description:** プロダクション向け双方向デスクトップカンペアプリ。クロスプラットフォーム対応。Rust/Tauri。
 
 #### [obs-sync](https://github.com/Incomplete-Outputs-Lab/obs-sync)
 - **Status:** `Under Development`
-- **Description:** 中〜大規模現場向けOBSマルチインスタンス同期システム。Rust/Tauri。
+- **Description:** 中〜大規模現場向けOBS同期システム。Rust/Tauri。
 
 #### [stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)
 - **Status:** `Under Development`
@@ -49,10 +51,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Language:** Rust (Tauri / Embassy) / Go / TypeScript / Zig
+- **Language:** Rust (Tauri / Embassy) / Go / TypeScript / Zig / C# / Swift
 - **Frontend:** React / Tailwind CSS / anime.js / Hono
-- **Database:** DuckDB / SQLite
-- **Network:** SRT / NDI / WebRTC / PTP (IEEE 1588)
+- **Database:** DuckDB / SQLite / Postgresql / Supabase
+- **Network:** NDI / OMT / SRT / WebRTC
 - **Infrastructure:** Cloudflare / Supabase
 
 ---
