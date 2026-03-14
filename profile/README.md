@@ -1,7 +1,7 @@
 # 未完成成果物研究所(未成研)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Non--Profit%20Community-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Community-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Broadcast%20%26%20Streaming-blue?style=for-the-badge" />
 </p>
 
@@ -16,7 +16,7 @@
 ---
 
 ### 🏛️ About
-**未完成成果物研究所（未成研）** は、配信プロダクション向けツールおよびハードウェア機材の研究開発を行う、非営利の技術者ギルドです。  
+**未完成成果物研究所（未成研）** は、配信プロダクション向けツールおよびハードウェア機材の研究開発を行う技術者コミュニティです。  
 
 「完成」の一歩手前にある、荒削りながらも本質的な課題解決を目的としています。2026年1月現在、全メンバーが放送・配信・IT業界の第一線で活動するプロフェッショナルであり、本業の傍ら、技術的探求と現場の最適化を目的として参画しています。
 
@@ -42,18 +42,23 @@
 
 #### [stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)
 - **Status:** `Under Development`
-- **Description:** DuckDBを基盤とした配信統計アナリティクスデスクトップアプリ。Rust/Tauri。
+- **Description:** DuckDBを基盤とした配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
 
-#### vMix-Control-Series
+#### Iryx - vMix-Control-Series
 - **Status:** `Under Development`
-- **Description:** Raspberry Pi 5 / Pico (Embassy) による放送用ハードウェア・コントローラー。
+- **Description:** vMixとの通信・制御を行う放送用ハードウェア・コントローラー。
+
+#### ATEM Micro Control Panel
+- **Status:** `Under Development`
+- **Description:** Blackmagic Design ATEMとの通信・制御を行う放送用ハードウェア・コントローラー。
+
 
 ---
 
 ### 🛠️ Tech Stack
-- **Language:** Rust (Tauri / Embassy) / Go / TypeScript / Zig / C# / Swift
+- **Language:** Rust / Go / TypeScript / Zig / C# / Swift
 - **Frontend:** React / Tailwind CSS / anime.js / Hono
-- **Database:** DuckDB / SQLite / Postgresql / Supabase
+- **Database:** DuckDB / Postgresql / Supabase
 - **Network:** NDI / OMT / SRT / WebRTC
 - **Infrastructure:** Cloudflare / Supabase
 
