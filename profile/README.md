@@ -17,36 +17,37 @@
 
 ---
 
-### 📡 Research & Projects
+### 📡 Products
 
-#### [vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility/)
-- **Status:** `Active`
-- **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeck向けのURL生成、Blankの生成自動化など。
+#### Product
 
-#### [rust-ndi-viewer](https://github.com/Incomplete-Outputs-Lab/rust-ndi-viewer/)
-- **Status:** `PoC`
-- **Description:** Pure RustなNDI Monitorアプリ。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き。
-
-#### [bi-kanpe](https://github.com/Incomplete-Outputs-Lab/bi-kanpe/)
-- **Status:** `Active`
-- **Description:** プロダクション向け双方向デスクトップカンペアプリ。クロスプラットフォーム対応。Rust/Tauri。
-
-#### [obs-sync](https://github.com/Incomplete-Outputs-Lab/obs-sync)
-- **Status:** `Under Development`
-- **Description:** 中〜大規模現場向けOBS同期システム。Rust/Tauri。
-
-#### [stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)
-- **Status:** `Under Development`
-- **Description:** DuckDBを基盤とした配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
-
-#### [Iryx](https://github.com/Incomplete-Outputs-Lab/iryx-manuals) - vMix Control panel
-- **Status:** `Under Development`
+**[Iryx](https://github.com/Incomplete-Outputs-Lab/iryx-manuals)** — vMix Control panel  
 - **Description:** vMixとの通信・制御を行う専用コントロールパネル。マニュアルのみ公開
 
-#### ATEM Micro Control Panel
-- **Status:** `Under Development`
+**ATEM Micro control**  
 - **Description:** Blackmagic Design ATEMの専用コントロールパネル。現在開発中
 
+#### Projects
+
+**[vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility/)**  
+- **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeck向けのURL生成、Blankの生成自動化など。
+
+**[bi-kanpe](https://github.com/Incomplete-Outputs-Lab/bi-kanpe/)**  
+- **Description:** プロダクション向け双方向デスクトップカンペアプリ。クロスプラットフォーム対応。Rust/Tauri。
+
+**[stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)**  
+- **Description:** DuckDBを基盤とした配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
+
+**[obs-sync](https://github.com/Incomplete-Outputs-Lab/obs-sync)**  
+- **Description:** 中〜大規模現場向けOBS同期システム。Rust/Tauri。
+
+**[ATEM-UI](https://github.com/MikanseiLaboratory/ATEM-UI)**  
+- **Description:** ATEM Software Control のオープンソース代替。Rust 製。
+
+#### Research
+
+**[rust-ndi-viewer](https://github.com/Incomplete-Outputs-Lab/rust-ndi-viewer/)**  
+- **Description:** Pure RustなNDI Monitorアプリ。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き。
 
 ---
 
@@ -59,8 +60,8 @@
 ---
 
 ### 👥 Members
-- **Misei.** ([@misei-nul](https://github.com/misei-nul)) - *Founder / Lead Architect*
-- **FlowingSPDG** ([@FlowingSPDG](https://github.com/FlowingSPDG)) - *Founder*
+- **Flowing** ([@FlowingSPDG](https://github.com/FlowingSPDG)) - *Founder / lead architect / Engineer*
+- **mizuyoukan** ([@mizuyoukanao](https://github.com/mizuyoukanao)) - *Engineer*
 
 ---
 
