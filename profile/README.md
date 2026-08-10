@@ -21,41 +21,42 @@
 
 #### Product
 
-**[Iryx](https://github.com/Incomplete-Outputs-Lab/iryx-manuals)** — vMix Control panel  
-- **Description:** vMixとの通信・制御を行う専用コントロールパネル。マニュアルのみ公開
+**[Iryx](https://github.com/MikanseiLaboratory/iryx-manuals)** — vMix Control panel  
+- **Description:** vMixとの通信・制御を行う専用コントロールパネル。鋭意開発中。2026年内販売予定
 
 **ATEM Micro control**  
-- **Description:** Blackmagic Design ATEMの専用コントロールパネル。現在開発中
+- **Description:** Blackmagic Design ATEMの専用コントロールパネル。鋭意開発中。
 
 #### Projects
 
-**[vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility/)**  
-- **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeck向けのURL生成、Blankの生成自動化など。
+**[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility/)**  
+- **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeckのボタン用URL生成、Blankの自動生成など。
 
-**[bi-kanpe](https://github.com/Incomplete-Outputs-Lab/bi-kanpe/)**  
-- **Description:** プロダクション向け双方向デスクトップカンペアプリ。クロスプラットフォーム対応。Rust/Tauri。
+**[bi-kanpe](https://github.com/MikanseiLaboratory/bi-kanpe/)**  
+- **Description:** プロダクション向け双方向カンペアプリ。
 
-**[stream-monitor](https://github.com/Incomplete-Outputs-Lab/stream-monitor)**  
-- **Description:** DuckDBを基盤とした配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
-
-**[obs-sync](https://github.com/Incomplete-Outputs-Lab/obs-sync)**  
-- **Description:** 中〜大規模現場向けOBS同期システム。Rust/Tauri。
+**[obs-sync](https://github.com/MikanseiLaboratory/obs-sync)**  
+- **Description:** 中〜大規模現場向けOBS同期システム。
 
 **[ATEM-UI](https://github.com/MikanseiLaboratory/ATEM-UI)**  
-- **Description:** ATEM Software Control のオープンソース代替。Rust 製。
+- **Description:** ATEM Software Control のオープンソース代替。Windows/Mac/Linux対応。
+
+**[omt-tools](https://github.com/MikanseiLaboratory/omt-tools/)**  
+- **Description:** OpenMediaTransport(OMT) オペレーションサポートアプリ。スタジオモニター、テスト信号送出ソフトウェアなど。
 
 #### Research
 
-**[rust-ndi-viewer](https://github.com/Incomplete-Outputs-Lab/rust-ndi-viewer/)**  
+**[rust-ndi-viewer](https://github.com/MikanseiLaboratory/rust-ndi-viewer/)**  
 - **Description:** Pure RustなNDI Monitorアプリ。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き。
+
+**[stream-monitor](https://github.com/MikanseiLaboratory/stream-monitor)**  
+- **Description:** DuckDBを基盤としたtwitch配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
 
 ---
 
 ### 🛠️ Tech Stack
-- **Language:** Rust / Go / TypeScript / Zig / C# / Swift
-- **Frameworks:** Embassy / React / Hono 
-- **Network:** NDI / OMT / SRT / WebRTC / gRPC
-- **Infrastructure:** Cloudflare / Supabase
+- **Language:** Rust / Go / TypeScript
+- **Frameworks:** Embassy / tokio / React / Hono 
 
 ---
 
