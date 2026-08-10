@@ -19,38 +19,18 @@
 
 ### 📡 Products
 
-#### Product
+#### Products
 
 **[Iryx](https://github.com/MikanseiLaboratory/iryx-manuals)** — vMix Control panel  
 - **Description:** vMixとの通信・制御を行う専用コントロールパネル。鋭意開発中。2026年内販売予定
 
-**ATEM Micro control**  
-- **Description:** Blackmagic Design ATEMの専用コントロールパネル。鋭意開発中。
-
-#### Projects
+#### Softwares
 
 **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility/)**  
 - **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeckのボタン用URL生成、Blankの自動生成など。
 
-**[bi-kanpe](https://github.com/MikanseiLaboratory/bi-kanpe/)**  
-- **Description:** プロダクション向け双方向カンペアプリ。
-
-**[obs-sync](https://github.com/MikanseiLaboratory/obs-sync)**  
-- **Description:** 中〜大規模現場向けOBS同期システム。
-
-**[ATEM-UI](https://github.com/MikanseiLaboratory/ATEM-UI)**  
-- **Description:** ATEM Software Control のオープンソース代替。Windows/Mac/Linux対応。
-
 **[omt-tools](https://github.com/MikanseiLaboratory/omt-tools/)**  
 - **Description:** OpenMediaTransport(OMT) オペレーションサポートアプリ。スタジオモニター、テスト信号送出ソフトウェアなど。
-
-#### Research
-
-**[rust-ndi-viewer](https://github.com/MikanseiLaboratory/rust-ndi-viewer/)**  
-- **Description:** Pure RustなNDI Monitorアプリ。 クロスプラットフォーム対応、CPUフィルタ/WGPUフィルタサンプル付き。
-
-**[stream-monitor](https://github.com/MikanseiLaboratory/stream-monitor)**  
-- **Description:** DuckDBを基盤としたtwitch配信統計BIアナリティクスデスクトップアプリ。Rust/Tauri。
 
 ---
 
