@@ -32,6 +32,15 @@
 **[omt-tools](https://github.com/MikanseiLaboratory/omt-tools/)**  
 - **Description:** OpenMediaTransport(OMT) オペレーションサポートアプリ。スタジオモニター、テスト信号送出ソフトウェアなど。
 
+**[omt-obs-plugin](https://github.com/MikanseiLaboratory/omt-obs-plugin/)**  
+- **Description:** OBS用OMTプラグイン。フィルタ出力、PRV&PGM出力対応。
+
+**[aviutl2-omt-output](https://github.com/MikanseiLaboratory/aviutl2-omt-output/)**  
+- **Description:** AviUtl2 OMTライブ出力プラグイン。今開いているシーンを送出。
+
+**[openfx-omt-plugin](https://github.com/MikanseiLaboratory/openfx-omt-plugin/)**  
+- **Description:** DaVinci Resolve向けOpenFX OMT送出フィルター。タイムラインを変えずに送出。
+
 ---
 
 ### 🛠️ Tech Stack
