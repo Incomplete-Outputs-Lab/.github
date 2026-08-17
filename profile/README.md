@@ -36,16 +36,16 @@
 - **Description:** OBS用OMTプラグイン。フィルタ出力、PRV&PGM出力対応。
 
 **[aviutl2-omt-output](https://github.com/MikanseiLaboratory/aviutl2-omt-output/)**  
-- **Description:** AviUtl2 OMTライブ出力プラグイン。今開いているシーンを送出。
+- **Description:** AviUtl2 OMTライブ出力プラグイン。
 
 **[openfx-omt-plugin](https://github.com/MikanseiLaboratory/openfx-omt-plugin/)**  
-- **Description:** DaVinci Resolve向けOpenFX OMT送出フィルター。タイムラインを変えずに送出。
+- **Description:** DaVinci Resolve向けOpenFX OMT送出フィルタープラグイン。
 
 **[aviutl2-network-video-output](https://github.com/MikanseiLaboratory/aviutl2-network-video-output/)**  
-- **Description:** AviUtl2 NDIライブ出力プラグイン。今開いているシーンを送出。
+- **Description:** AviUtl2 NDIライブ出力プラグイン。
 
 **[openfx-network-video-plugin](https://github.com/MikanseiLaboratory/openfx-network-video-plugin/)**  
-- **Description:** DaVinci Resolve向けOpenFX NDI送出フィルター。タイムラインを変えずに送出。
+- **Description:** DaVinci Resolve向けOpenFX NDI送出フィルタープラグイン。
 
 ---
 
