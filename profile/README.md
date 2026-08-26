@@ -10,10 +10,16 @@
 ---
 
 ### 🏛️ About
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/257011161?s=200&v=4" />
+</p>
+
 **[未完成成果物研究所](https://mikanseilaboratory.github.io/)** は、配信プロダクション向けツールおよびハードウェア機材の研究開発を行う技術者コミュニティです。  
 
 「完成」の一歩手前にある、荒削りながらも本質的な課題解決を目的としています。  
 2026年3月現在、全メンバーが放送・配信・IT業界の第一線で活動するプロフェッショナルであり、本業の傍ら、技術的探求と現場の最適化を目的として参画しています。
+
+**[Mikansei Laboratory](https://mikanseilaboratory.github.io/)** is Broadcast/Streaming tool and hardware Research & Development community based in Japan.
 
 ---
 
@@ -50,13 +56,13 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Language:** Rust / Go / TypeScript
+- **Language:** Rust / Go / C# / TypeScript
 - **Frameworks:** Embassy / tokio / React / Hono 
 
 ---
 
 ### 👥 Members
-- **Flowing** ([@FlowingSPDG](https://github.com/FlowingSPDG)) - *Founder / lead architect / Engineer*
+- **Shugo Kawamura[FlowingSPDG]** ([@FlowingSPDG](https://github.com/FlowingSPDG)) - *Founder / lead architect / Engineer*
 - **mizuyoukan** ([@mizuyoukanao](https://github.com/mizuyoukanao)) - *Engineer*
 
 ---
