@@ -27,8 +27,17 @@
 
 #### Products
 
+**[eiviz](https://github.com/MikanseiLaboratory/eiviz)** — Next-generation software vision mixer  
+- **Description:** 現代の技術とUIで開発する次世代の映像スイッチャーソフトウェア。vMixやOBS-Studioのオペレーターのオペレーションを更に1段階押し上げる自由度を提供。オープンコア
+
 **[Iryx](https://github.com/MikanseiLaboratory/iryx-manuals)** — vMix Control panel  
 - **Description:** vMixとの通信・制御を行う専用コントロールパネル。鋭意開発中。2026年内販売予定
+
+**ATEM IP Control Panel** — Blackmagic Design ATEM Small IP Control panel  
+- **Description:** Blackmagic Design ATEMをPC不要で制御するコントロールパネル。鋭意開発中。2026年内販売予定
+
+**SDI to OMT Encoder** — SDI/HDMI to OMT Encoder  
+- **Description:** SDIやHDMIで入力された映像・音声をOMT(OpenMediaTransport)へエンコードするハードウェア。鋭意開発中。
 
 #### Softwares
 
