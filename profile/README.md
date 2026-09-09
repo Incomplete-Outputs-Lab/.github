@@ -21,6 +21,8 @@
 
 **[Mikansei Laboratory](https://mikanseilaboratory.github.io/)** is Broadcast/Streaming tool and hardware Research & Development community based in Japan.
 
+**公式X / Official X:** [@MikanseiDev](https://x.com/MikanseiDev)
+
 ---
 
 ### 📡 Products
